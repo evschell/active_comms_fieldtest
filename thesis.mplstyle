@@ -1,0 +1,6 @@
+axes.labelweight : bold
+figure.figsize : 4, 3
+axes.edgecolor : black
+mathtext.default : regular
+grid.color : 'lightgray'
+lines.markersize : 7
